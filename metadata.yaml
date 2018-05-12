@@ -1,0 +1,40 @@
+_repo: The-Pastor-s-Wife_36295
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Litle, Arthur
+    alias: Little, Arthur
+    gutenberg_agent_id: '39439'
+    url: http://www.gutenberg.org/2009/agents/39439
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Von Arnim, Elizabeth
+    aliases:
+    - Cholmondeley, Alice
+    - Arnim-Schlagenthin, Countess Elizabeth von
+    - Beauchamp, Mary Annette
+    - Russell, Mary Annette Beauchamp Russell, Countess
+    - Arnim, Elizabeth von
+    birthdate: 1866
+    deathdate: 1941
+    gutenberg_agent_id: '603'
+    url: http://www.gutenberg.org/2009/agents/603
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_von_Arnim
+description: ''
+gutenberg_issued: '2011-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36295'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Domestic fiction'
+- !lcsh 'Spouses of clergy -- Fiction'
+- !lcc 'PR'
+title: The Pastor's Wife
+url: http://www.gutenberg.org/ebooks/36295
